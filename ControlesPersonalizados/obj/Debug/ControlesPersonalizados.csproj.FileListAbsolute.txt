@@ -1,0 +1,13 @@
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\bin\Debug\ControlesPersonalizados.dll
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\bin\Debug\ControlesPersonalizados.pdb
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.BasesDeDatos.DBConfig.resources
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.csproj.GenerateResource.Cache
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.dll
+D:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.pdb
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\bin\Debug\ControlesPersonalizados.dll
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\bin\Debug\ControlesPersonalizados.pdb
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.csprojResolveAssemblyReference.cache
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.BasesDeDatos.DBConfig.resources
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.csproj.GenerateResource.Cache
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.dll
+G:\Github\Controles-de-Usuario\ControlesPersonalizados\obj\Debug\ControlesPersonalizados.pdb
